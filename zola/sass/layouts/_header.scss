@@ -45,6 +45,7 @@
 @include media-breakpoint-up(md) {
   .nav-item {
     margin-left: 0.5rem;
+    color: red;
   }
 }
 
@@ -58,7 +59,6 @@
   .navbar .container {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-    margin-left: 0;
   }
 }
 
