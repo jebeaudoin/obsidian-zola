@@ -50,7 +50,7 @@
 
 @include media-breakpoint-down(sm) {
   .nav-item:first-child {
-    margin-left: 0;
+    margin-left: -10px;
   }
 }
 
