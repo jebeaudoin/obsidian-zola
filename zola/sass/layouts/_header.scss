@@ -50,7 +50,7 @@
 
 @include media-breakpoint-down(sm) {
   .nav-item:first-child {
-    margin-left: -10px;
+    margin-left: 0;
   }
 }
 
@@ -58,6 +58,7 @@
   .navbar .container {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    margin-left: 0;
   }
 }
 
