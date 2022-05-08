@@ -45,7 +45,6 @@
 @include media-breakpoint-up(md) {
   .nav-item {
     margin-left: 0.5rem;
-    color: red;
   }
 }
 
@@ -90,6 +89,7 @@
 
 @include media-breakpoint-up(md) {
   .navbar-brand {
+    font-size: 1rem;
     margin-right: 1rem !important;
   }
 
