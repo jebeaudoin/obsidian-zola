@@ -68,8 +68,9 @@
 
 .navbar {
   background-color: rgba(255, 255, 255, 0.95);
-  border-bottom: 1px solid red; /* $gray-200 */
+  border-bottom: 1px solid $gray-200;
   margin-top: 4px;
+  margin-bottom: 10rem;
 }
 
 .header-bar {
